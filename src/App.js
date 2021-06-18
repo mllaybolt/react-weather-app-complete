@@ -15,7 +15,8 @@ export default function App() {
             rel="noreferrer noopener"
           >
             GitHub
-          </a>
+          </a>{" "}
+          and <a href="/">hosted on Netlify</a>
         </footer>
       </div>
     </div>
