@@ -16,7 +16,14 @@ export default function App() {
           >
             GitHub
           </a>{" "}
-          and <a href="/">hosted on Netlify</a>
+          and{" "}
+          <a
+            href="https://quizzical-agnesi-24b5f1.netlify.app"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
