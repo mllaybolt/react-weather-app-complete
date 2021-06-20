@@ -1,8 +1,9 @@
 .Weather {
   font-family: "Quicksand", sans-serif;
   border: 1px solid #dadde1;
-  padding: 25px;
+  padding: 30px;
   color: #ffffff;
+  border: 0px;
   border-radius: 15px;
   background: linear-gradient(
     109.6deg,
